@@ -8,6 +8,10 @@ body {
 	max-width: 100%;
 }
 
+p{
+	font-size: 10em;
+}
+
 /* Add a media query to change the background to color to yellow when the width is more than 480px*/
 
 
